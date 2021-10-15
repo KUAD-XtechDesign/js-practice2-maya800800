@@ -1,7 +1,7 @@
 $(function(){
 
-    let txt1 = "おはようございます！";
-    let txt2 = "おげんきですか？";
+    let txt1 = "にゃも";
+    let txt2 = "うん";
     let num1 = 20;
     let num2 = 32;
 
@@ -26,7 +26,7 @@ $(function(){
         saySomething(txt1);
     })
 
-    $("#button3").on("click",function(){
+    $("#button03").on("click",function(){
         samTwo(txt1,txt2);
     })
 
@@ -34,7 +34,7 @@ $(function(){
         samTwo(num1,num2);
     })
 
-    $("#button5").on("click",function(){
+    $("#button05").on("click",function(){
         samTwo(txt1,txt2);
         samTwo(num1,num2);
     })
