@@ -1,6 +1,6 @@
 
 body{
-  background-color: #DCDCDC;
+  background-color: #06f8e4;
   color: #333;
   margin: 10px;
   font-size: 12px;
@@ -8,7 +8,7 @@ body{
 
 .wrapper{
   max-width: 1000px;
-  background-color: #fff;
+  background-color: rgb(255, 0, 119);
   margin: 0 auto;
   padding: 20px;
   min-height: 400px;
