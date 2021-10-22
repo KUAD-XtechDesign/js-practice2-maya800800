@@ -31,6 +31,10 @@ $(function(){
       checkBox();
     })
     
+    $(window).on("scroll",function(){
+        hako++;
+        checkBox();
+    })
     
 })
    
